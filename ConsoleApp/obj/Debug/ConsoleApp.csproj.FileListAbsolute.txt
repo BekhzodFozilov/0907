@@ -5,3 +5,10 @@ C:\Users\b.fozilov\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.cspro
 C:\Users\b.fozilov\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\b.fozilov\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\b.fozilov\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Git\0907\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Git\0907\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Git\0907\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Git\0907\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Git\0907\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Git\0907\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Git\0907\ConsoleApp\obj\Debug\ConsoleApp.pdb
